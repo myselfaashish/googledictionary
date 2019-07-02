@@ -68,12 +68,3 @@
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-
-#Ignore These
-.metadata
-README.md
-android/
-assets/
-ios/
-pubspec.lock
-test/
